@@ -12,7 +12,7 @@ In this challenge, as a data analyst working for a nonprofit foundation, **Alpha
 
 From Alphabet Soup’s business team, you have received a CSV containing more than 34,000 organisations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organisation, such as:
   
-        - EIN and NAME: Identification columns
+        - **EIN and NAME:** Identification columns
         - APPLICANT_TYPE: Alphabet Soup Application type
         - AFFILIATION: Affiliated sector of industry
         - CLASSIFICATION: Government organisation classification
